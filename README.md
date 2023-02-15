@@ -9,7 +9,7 @@ I am a security researcher based in Beijing. I am dedicated to finding and addre
 - Network Security
 
 ## :rocket: Projects
-- [Tcp-DNS-proxy](https://github.com/henices/Tcp-DNS-proxy): A TCP over DNS tool.
+- [Tcp-DNS-proxy](https://github.com/henices/Tcp-DNS-proxy): A DNS over TCP tool.
 - [Chrome-proxy-helper](https://github.com/henices/Chrome-proxy-helper): A Chrome extension to automatically switch proxy server.
 - [sqli](https://github.com/henices/sqli): A tool for SQL injection detection.
 
