@@ -1,6 +1,6 @@
 # 👋 Hi, I'm henices
 
-I am a security researcher based in Beijing. I am dedicated to finding and addressing security vulnerabilities in various systems and applications.
+I am a security researcher. I am dedicated to finding and addressing security vulnerabilities in various systems and applications.
 
 ## :computer: Skills
 - Vulnerability Research and Analysis
