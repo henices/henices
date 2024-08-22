@@ -12,6 +12,7 @@ I am a security researcher. I am dedicated to finding and addressing security vu
 - [Tcp-DNS-proxy](https://github.com/henices/Tcp-DNS-proxy): A DNS over TCP tool.
 - [Chrome-proxy-helper](https://github.com/henices/Chrome-proxy-helper): A Chrome extension to automatically switch proxy server.
 - [sqli](https://github.com/henices/sqli): A tool for SQL injection detection.
+- [Logseq flow nord Theme](https://github.com/henices/logseq-flow-nord): A minimal Logseq theme.
 
 ## :email: Connect
 
